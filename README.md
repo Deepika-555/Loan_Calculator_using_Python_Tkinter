@@ -1,1 +1,1 @@
-#Loan_Calculator_Using_Tkinter
+#Loan_Calculator_Using_Python_Tkinter
